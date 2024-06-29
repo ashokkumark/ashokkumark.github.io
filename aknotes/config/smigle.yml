@@ -1,5 +1,5 @@
 # exampleSite/config.yaml
-baseURL: https://aknotes.dev/ # Replace with your domain
+baseURL: https://ashokkumark.github.io/ # Replace with your domain
 languageCode: en-us
 theme: smigle
 title: Ashok Kadambala
