@@ -1,9 +1,3 @@
-[submodule "themes/simplog"]
-	path = themes/simplog
-	url = https://github.com/michimani/simplog.git
-[submodule "nuggets/themes/PaperMod"]
-	path = nuggets/themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
 [submodule "aknotes/themes/smigle"]
 	path = aknotes/themes/smigle
 	url = https://gitlab.com/ian-s-mcb/smigle-hugo-theme.git
