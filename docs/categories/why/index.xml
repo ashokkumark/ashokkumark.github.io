@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/why/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
+      <title>Hello, World!</title>
       <link>http://localhost:1313/posts/first/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/first/</guid>
-      <description>First entry to see how it looks. Its going to be exciting.</description>
+      <description>Printing &amp;ldquo;Hello, World!&amp;rdquo; is most likely the first program that many of us write when starting with a new programming language. Certainly, this is how I started with the C programming language almost 18 years ago. Continuing the tradition, I am starting my personal blog with &amp;ldquo;Hello, World&amp;rdquo;.&#xA;I am not expecting any new reader outside of my close circle to notice about this blog but if you happen to land on this space for any reason, you may wonder &amp;ldquo;why starting a new blog now&amp;rdquo;?</description>
     </item>
   </channel>
 </rss>

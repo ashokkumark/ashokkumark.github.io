@@ -34,7 +34,7 @@ params:
   abbrDateFmt: "Jan 2"
   author: "Ashok Kadambala"
   brandIconFile: "images/brandIcon.svg"
-  dateFmt: "2024-01-31"
+  dateFmt: "2006-01-02"
   ##
   ## Options for overriding theme or page defaults
   ##

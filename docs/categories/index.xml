@@ -9,17 +9,10 @@
     <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Integration</title>
-      <link>http://localhost:1313/categories/integration/</link>
+      <title>Random</title>
+      <link>http://localhost:1313/categories/random/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/integration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Why</title>
-      <link>http://localhost:1313/categories/why/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/why/</guid>
+      <guid>http://localhost:1313/categories/random/</guid>
       <description></description>
     </item>
   </channel>
