@@ -2,7 +2,7 @@
 author: Ashok Kadambala
 title: Hello, World!
 date: 2024-06-24
-Lastmod: 2024-06-24
+Lastmod: 2024-07-06
 description: Just wanted to say Hello and put together thoughts around why I am starting a new blog.
 categories:
   - Random
